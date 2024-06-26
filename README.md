@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RubiToad / Tyler
+- 👀 I’m a web developer/indie game developer!
+- 💻 I'm a computer science student with dreams of becoming a full-stack engineer.
